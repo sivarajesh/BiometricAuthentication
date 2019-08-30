@@ -1,2 +1,2 @@
 # BiometricAuthentication
-Implementation of biometric authentication
+Implementation of biometric authentication in Android
