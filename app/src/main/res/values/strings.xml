@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Biometric Authentication</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="biometric_status">Biometric Status</string>
+    <string name="biometric_available">Biometrics available\nClick authenticate</string>
+    <string name="no_biometric_enrolled">Biometrics hardware available\nNo biometrics enrolled</string>
+    <string name="biometric_not_available">Biometrics hardware not available</string>
 </resources>
